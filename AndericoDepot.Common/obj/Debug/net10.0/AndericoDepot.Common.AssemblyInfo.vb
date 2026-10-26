@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("AndericoDepot.Common"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8510e7d8ba54d8e8305ec147b4efefa8b04444cf"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("AndericoDepot.Common"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("AndericoDepot.Common"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

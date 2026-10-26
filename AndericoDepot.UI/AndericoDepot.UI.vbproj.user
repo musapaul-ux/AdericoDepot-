@@ -16,6 +16,9 @@
     <Compile Update="Forms\Purchases\PurchaseEntryForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Sales\SaleEntryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\Stock\StockAdjustmentForm.vb">
       <SubType>Form</SubType>
     </Compile>

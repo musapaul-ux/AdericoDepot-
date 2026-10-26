@@ -40,4 +40,9 @@ Public Class MainForm
         Dim form As New PurchaseEntryForm(_currentUser)
         form.ShowDialog()
     End Sub
+
+    Private Sub btnNewSale_Click(sender As Object, e As EventArgs) Handles btnNewSale.Click
+        Dim form As New SaleEntryForm(_currentUser)
+        form.ShowDialog()
+    End Sub
 End Class

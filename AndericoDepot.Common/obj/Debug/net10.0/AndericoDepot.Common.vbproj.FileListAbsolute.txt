@@ -10,3 +10,4 @@ C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.pdb
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\ref\AndericoDepot.Common.dll
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\Anderico.60CAB068.Up2Date
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.sourcelink.json

@@ -43,7 +43,6 @@
     <Folder Include="Forms\Controls\" />
     <Folder Include="Forms\Reports\" />
     <Folder Include="Forms\Users\" />
-    <Folder Include="Forms\Sales\" />
   </ItemGroup>
 
   <ItemGroup>

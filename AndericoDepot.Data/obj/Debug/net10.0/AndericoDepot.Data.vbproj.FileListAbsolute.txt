@@ -13,3 +13,4 @@ C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\An
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\refint\AndericoDepot.Data.dll
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.pdb
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\ref\AndericoDepot.Data.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.sourcelink.json

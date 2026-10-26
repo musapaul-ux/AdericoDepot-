@@ -73,3 +73,5 @@ C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-wind
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-windows\AndericoDepot.UI.ProductListForm.resources
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-windows\AndericoDepot.UI.StockAdjustmentForm.resources
 C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-windows\AndericoDepot.UI.PurchaseEntryForm.resources
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-windows\AndericoDepot.UI.SaleEntryForm.resources
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.UI\obj\Debug\net10.0-windows\AndericoDepot.UI.sourcelink.json

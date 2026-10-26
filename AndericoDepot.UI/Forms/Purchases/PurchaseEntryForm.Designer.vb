@@ -125,6 +125,7 @@ Partial Class PurchaseEntryForm
         ' 
         numUnitCost.DecimalPlaces = 2
         numUnitCost.Location = New Point(698, 77)
+        numUnitCost.Maximum = New Decimal(New Integer() {999999, 0, 0, 0})
         numUnitCost.Name = "numUnitCost"
         numUnitCost.Size = New Size(180, 31)
         numUnitCost.TabIndex = 9
@@ -133,6 +134,7 @@ Partial Class PurchaseEntryForm
         ' 
         numQuantity.DecimalPlaces = 2
         numQuantity.Location = New Point(427, 81)
+        numQuantity.Maximum = New Decimal(New Integer() {9999999, 0, 0, 0})
         numQuantity.Minimum = New Decimal(New Integer() {1, 0, 0, 131072})
         numQuantity.Name = "numQuantity"
         numQuantity.Size = New Size(150, 31)

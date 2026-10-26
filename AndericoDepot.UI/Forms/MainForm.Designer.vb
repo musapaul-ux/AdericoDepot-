@@ -25,6 +25,7 @@ Partial Class MainForm
         btnProducts = New Button()
         btnStockAdjustment = New Button()
         btnNewPurchase = New Button()
+        btnNewSale = New Button()
         SuspendLayout()
         ' 
         ' btnProducts
@@ -54,11 +55,21 @@ Partial Class MainForm
         btnNewPurchase.Text = "Stock In"
         btnNewPurchase.UseVisualStyleBackColor = True
         ' 
+        ' btnNewSale
+        ' 
+        btnNewSale.Location = New Point(727, 21)
+        btnNewSale.Name = "btnNewSale"
+        btnNewSale.Size = New Size(112, 34)
+        btnNewSale.TabIndex = 3
+        btnNewSale.Text = "New Sale"
+        btnNewSale.UseVisualStyleBackColor = True
+        ' 
         ' MainForm
         ' 
         AutoScaleDimensions = New SizeF(10.0F, 25.0F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(1055, 450)
+        Controls.Add(btnNewSale)
         Controls.Add(btnNewPurchase)
         Controls.Add(btnStockAdjustment)
         Controls.Add(btnProducts)
@@ -70,4 +81,5 @@ Partial Class MainForm
     Friend WithEvents btnProducts As Button
     Friend WithEvents btnStockAdjustment As Button
     Friend WithEvents btnNewPurchase As Button
+    Friend WithEvents btnNewSale As Button
 End Class
