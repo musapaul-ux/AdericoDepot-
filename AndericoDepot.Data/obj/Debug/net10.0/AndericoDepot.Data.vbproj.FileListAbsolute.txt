@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.AssemblyInfo.vb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\bin\Debug\net10.0\AndericoDepot.Data.deps.json
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\bin\Debug\net10.0\AndericoDepot.Data.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\bin\Debug\net10.0\AndericoDepot.Data.pdb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\bin\Debug\net10.0\AndericoDepot.Common.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\bin\Debug\net10.0\AndericoDepot.Common.pdb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\Anderico.25A27D02.Up2Date
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\refint\AndericoDepot.Data.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\AndericoDepot.Data.pdb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Data\obj\Debug\net10.0\ref\AndericoDepot.Data.dll

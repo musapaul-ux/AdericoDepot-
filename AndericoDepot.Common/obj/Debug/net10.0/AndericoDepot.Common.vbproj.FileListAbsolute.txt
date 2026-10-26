@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\bin\Debug\net10.0\AndericoDepot.Common.deps.json
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\bin\Debug\net10.0\AndericoDepot.Common.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\bin\Debug\net10.0\AndericoDepot.Common.pdb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.AssemblyInfo.vb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\refint\AndericoDepot.Common.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\AndericoDepot.Common.pdb
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\ref\AndericoDepot.Common.dll
+C:\Users\USER\source\repos\AndericoDepot\AndericoDepot.Common\obj\Debug\net10.0\Anderico.60CAB068.Up2Date

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AndericoDepot.Business/AndericoDepot.Business.vbproj" />
+  <Project Path="AndericoDepot.Common/AndericoDepot.Common.vbproj" />
+  <Project Path="AndericoDepot.Data/AndericoDepot.Data.vbproj" />
+  <Project Path="AndericoDepot.UI/AndericoDepot.UI.vbproj" />
+</Solution>

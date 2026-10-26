@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\services\\saleservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\services\\saleservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\salesdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\salesdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\repositories\\salerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\repositories\\salerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\services\\purchaseservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\services\\purchaseservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\repositories\\purchaserepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\repositories\\purchaserepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\repositories\\stockrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\repositories\\stockrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\purchasedetials.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\purchasedetials.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\supplier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\stock\\stockadjustmentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\stock\\stockadjustmentform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\stockmovement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\stockmovement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\products\\productlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\products\\productlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\products\\producteditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\products\\producteditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\andericodepot.data.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\andericodepot.data.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\products\\producteditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\products\\producteditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\services\\productservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\services\\productservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\repositories\\productrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\repositories\\productrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\products.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\products.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\andericodepot.ui.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\andericodepot.ui.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\repositories\\userrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\repositories\\userrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\helpers\\connectionhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\helpers\\connectionhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\services\\authservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\services\\authservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.ui\\forms\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E90A230-689B-E2D5-9B63-D61EBB85424C}|AndericoDepot.UI\\AndericoDepot.UI.vbproj|solutionrelative:andericodepot.ui\\forms\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\models\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\models\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\constants\\appconstants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\constants\\appconstants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\enums\\productstatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\enums\\productstatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\enums\\expensestatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\enums\\expensestatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\andericodepot.business.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\andericodepot.business.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\enums\\paymentmethod.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\enums\\paymentmethod.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\enums\\stockmovementtype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\enums\\stockmovementtype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\enums\\userrole.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\enums\\userrole.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\andericodepot.common.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\andericodepot.common.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.common\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E392883-7ADE-8640-51BE-9A0D17CD8E31}|AndericoDepot.Common\\AndericoDepot.Common.vbproj|solutionrelative:andericodepot.common\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.business\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B00A6D90-3ECE-18B8-1BAB-B56AB6543C09}|AndericoDepot.Business\\AndericoDepot.Business.vbproj|solutionrelative:andericodepot.business\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|c:\\users\\user\\source\\repos\\andericodepot\\andericodepot.data\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B782AD91-6974-AEC2-F896-B6DB33EDD88E}|AndericoDepot.Data\\AndericoDepot.Data.vbproj|solutionrelative:andericodepot.data\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleService.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\SaleService.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\Services\\SaleService.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\SaleService.vb",
+              "RelativeToolTip": "AndericoDepot.Business\\Services\\SaleService.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T12:37:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesDetail.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\SalesDetail.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\SalesDetail.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\SalesDetail.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\SalesDetail.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T12:33:23.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\SaleRepository.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Repositories\\SaleRepository.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\SaleRepository.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Repositories\\SaleRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T12:31:11.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseService.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\PurchaseService.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\Services\\PurchaseService.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\PurchaseService.vb",
+              "RelativeToolTip": "AndericoDepot.Business\\Services\\PurchaseService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T05:03:12.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\PurchaseRepository.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Repositories\\PurchaseRepository.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\PurchaseRepository.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Repositories\\PurchaseRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T04:58:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\StockRepository.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Repositories\\StockRepository.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\StockRepository.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Repositories\\StockRepository.vb",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T12:33:25.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\MainForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.vb [Design]",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T09:41:52.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\MainForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.vb",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\MainForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T09:42:01.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseDetials.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\PurchaseDetials.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\PurchaseDetials.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\PurchaseDetials.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\PurchaseDetials.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T04:58:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\Supplier.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\Supplier.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\Supplier.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\Supplier.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T04:57:20.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockAdjustmentForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Stock\\StockAdjustmentForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\Stock\\StockAdjustmentForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Stock\\StockAdjustmentForm.vb [Design]",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\Stock\\StockAdjustmentForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-26T04:46:19.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockMovement.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\StockMovement.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\StockMovement.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\StockMovement.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\StockMovement.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T12:32:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductListForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductListForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\Products\\ProductListForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductListForm.vb [Design]",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\Products\\ProductListForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T12:11:26.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductEditForm.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T12:00:55.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AndericoDepot.Data.vbproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\AndericoDepot.Data.vbproj",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\AndericoDepot.Data.vbproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\AndericoDepot.Data.vbproj",
+              "RelativeToolTip": "AndericoDepot.Data\\AndericoDepot.Data.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-10-25T05:49:48.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.Designer.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\MainForm.Designer.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\MainForm.Designer.vb",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\MainForm.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T12:02:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductEditForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb [Design]",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\Products\\ProductEditForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T11:26:02.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\ProductService.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\Services\\ProductService.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\ProductService.vb",
+              "RelativeToolTip": "AndericoDepot.Business\\Services\\ProductService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T10:51:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\ProductRepository.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Repositories\\ProductRepository.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\ProductRepository.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Repositories\\ProductRepository.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T10:45:00.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\Products.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\Products.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\Products.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\Products.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T10:43:49.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AndericoDepot.UI.vbproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\AndericoDepot.UI.vbproj",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\AndericoDepot.UI.vbproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\AndericoDepot.UI.vbproj",
+              "RelativeToolTip": "AndericoDepot.UI\\AndericoDepot.UI.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-10-25T06:15:03.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\UserRepository.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Repositories\\UserRepository.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Repositories\\UserRepository.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Repositories\\UserRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T07:29:51.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConnectionHelper.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Helpers\\ConnectionHelper.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Helpers\\ConnectionHelper.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Helpers\\ConnectionHelper.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Helpers\\ConnectionHelper.vb",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:12:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\appsettings.json",
+              "RelativeToolTip": "AndericoDepot.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T07:14:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T09:39:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthService.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\AuthService.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\Services\\AuthService.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Services\\AuthService.vb",
+              "RelativeToolTip": "AndericoDepot.Business\\Services\\AuthService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T07:30:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.UI\\Forms\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.UI\\Forms\\LoginForm.vb [Design]",
+              "RelativeToolTip": "AndericoDepot.UI\\Forms\\LoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T05:47:15.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\User.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Models\\User.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Models\\User.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Models\\User.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T07:28:25.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppConstants.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Constants\\AppConstants.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Constants\\AppConstants.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Constants\\AppConstants.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Constants\\AppConstants.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:06:30.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductStatus.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\ProductStatus.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Enums\\ProductStatus.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\ProductStatus.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Enums\\ProductStatus.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:04:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExpenseStatus.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\ExpenseStatus.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Enums\\ExpenseStatus.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\ExpenseStatus.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Enums\\ExpenseStatus.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:03:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AndericoDepot.Business.vbproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\AndericoDepot.Business.vbproj",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\AndericoDepot.Business.vbproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\AndericoDepot.Business.vbproj",
+              "RelativeToolTip": "AndericoDepot.Business\\AndericoDepot.Business.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-10-25T05:49:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymentMethod.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\PaymentMethod.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Enums\\PaymentMethod.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\PaymentMethod.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Enums\\PaymentMethod.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:02:57.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StockMovementType.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\StockMovementType.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Enums\\StockMovementType.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\StockMovementType.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Enums\\StockMovementType.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T06:00:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRole.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\UserRole.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Enums\\UserRole.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Enums\\UserRole.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Enums\\UserRole.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T05:57:07.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AndericoDepot.Common.vbproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\AndericoDepot.Common.vbproj",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\AndericoDepot.Common.vbproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\AndericoDepot.Common.vbproj",
+              "RelativeToolTip": "AndericoDepot.Common\\AndericoDepot.Common.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-10-25T05:54:47.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Class1.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Common\\Class1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Common\\Class1.vb",
+              "RelativeToolTip": "AndericoDepot.Common\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T05:46:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Class1.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Business\\Class1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Business\\Class1.vb",
+              "RelativeToolTip": "AndericoDepot.Business\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T05:42:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Class1.vb",
+              "RelativeDocumentMoniker": "AndericoDepot.Data\\Class1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AndericoDepot\\AndericoDepot.Data\\Class1.vb",
+              "RelativeToolTip": "AndericoDepot.Data\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-25T05:39:59.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
